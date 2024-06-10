@@ -1,0 +1,27 @@
+h1{
+    text-align: left;
+}
+body{
+    background-color:  rgba(161, 149, 252, 0.397);
+}
+.Go{
+    display: flex;
+    justify-content: left;
+    /* border-style: solid; */
+    height: 50%;
+    width:40%;
+}
+.under{
+    /* border-style: solid; */
+    height: 25%;
+    width:30%;
+}
+.beneath{
+    /* border-style: solid; */
+    height: 50%;
+    width:50%;
+    margin-left: 5%;
+}
+h2,p{
+    color:olivedrab;
+}
